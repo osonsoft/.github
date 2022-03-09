@@ -1,2 +1,3 @@
 # .github
-Organization assets repository to keep important documents &amp; assets
+
+_Community health files for the @osmon-lang organization_
