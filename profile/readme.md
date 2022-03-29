@@ -1,4 +1,4 @@
-![Osmon's Hero Image](./profile/banners.png)
+<a href="https://osmon.dev"><img src="./profile/banners.png" alt="Osmon's Hero Image"></a>
 
 <p align="center"><h1 align="center">Osmon Dasturlash Tili</h1></p>
 
