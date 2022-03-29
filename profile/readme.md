@@ -4,4 +4,4 @@
 
 <p align="center"><h3 align="center">Programming Language | Dasturlash Tili</h3></p>
 
-<p align="center">O'zbek auditoriyasi va boshlang'ichllar uchun moslangan o'rgatuvchi til</p>
+<p align="center">O'zbek boshlang'ichlari uchun o'rgatuvchi til | Language made for uzbek learners</p>
