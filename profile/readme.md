@@ -1,4 +1,4 @@
-<a href="https://bytech.uz"><img  src="./profile/banner.png" alt="Bytech's Hero Image"></a>
+<a href="https://bytech.uz"><img  src="https://raw.githubusercontent.com/Bytech-Uzbekistan/.github/main/profile/banner.png" alt="Bytech's Hero Image"></a>
 
 <p align="center"><h1 align="center">Bytech Uzbekistan</h1></p>
 
